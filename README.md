@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 📫 Reach me via: think.niko ＠ gmail
+- ⚡ Connect via: https://www.linkedin.com/in/njanceski/
 - 🌱 I’m currently learning Istio and Management processes.
 - 🤔 I’m looking for help with building a new web application for a personal project.
 - 💬 Ask me about Terraform, Kubernetes, Istio and Management processes
